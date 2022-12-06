@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">"Username: "</string>
+    <string name="server_port">"Server Port: "</string>
+    <string name="server_host">"Server Host: "</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

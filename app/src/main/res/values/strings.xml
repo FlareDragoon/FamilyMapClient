@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Family Map Server Client</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="welcome">"Welcome %d %d!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="request_failed">"Request failed"</string>
+    <string name="username">Username: </string>
+    <string name="prompt_username">Username</string>
+    <string name="server_port">Server Port: </string>
+    <string name="prompt_port">Server Port</string>
+    <string name="server_host">Server Host: </string>
+    <string name="prompt_server_host">Server Host</string>
+    <string name="password">Password: </string>
+    <string name="first_name">First Name: </string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="last_name">Last Name: </string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="email">Email: </string>
+    <string name="gender">Gender: </string>
+    <string name="prompt_gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="action_register">Register</string>
+    <string name="map_select_a_marker">Click on a marker to see event details.</string>
+    <string name="family_title">Family</string>
+    <string name="life_events_title">Life Events</string>
+    <string name="show_male_events">Show Male Events:</string>
+    <string name="show_spouse_line">Show Spouse Line:</string>
+    <string name="show_life_story_lines">Show Life Story Lines:</string>
+    <string name="show_family_tree_lines">Show Family Tree Lines:</string>
+    <string name="show_paternal_events">Show Paternal Events:</string>
+    <string name="show_maternal_events">Show Maternal Events:</string>
+    <string name="show_female_events">Show Female Events:</string>
+    <string name="logout">Logout</string>
+
+</resources>
